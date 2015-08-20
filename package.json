@@ -2,6 +2,8 @@
   "name": "my-angular",
   "version": "0.1.0",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "eslint": "^1.2.1",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0"
   }
 }
